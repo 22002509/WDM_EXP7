@@ -92,3 +92,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/bac3356e-c6c3-49cd-8a92-5e7245241f21)
 
 ### Result:
+The program successfully implements the HITS algorithm, calculates authority and hub scores for each node in the graph, and visualizes them using a bar chart.
